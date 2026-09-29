@@ -1,0 +1,23 @@
+TENDER NOTICE - INFRASTRUCTURE CONSTRUCTION (STALE CITATIONS SPECIFICATION)
+
+Subject: Construction of Reinforced Concrete Bridges and Approach Roads
+
+Tender Reference No: NHAI/TECH/2026/BR-104
+
+1. SCOPE OF WORK
+Construction of major RCC bridge structure, precast girder installation, and approach road surfacing.
+
+2. TECHNICAL SPECIFICATIONS
+
+2.1 CEMENT AND CONCRETE
+- Ordinary Portland Cement 43 Grade conforming to IS 8112:1989 shall be used for structural concrete elements.
+- Structural concrete design and mix proportioning shall strictly follow IS 456:1978 code of practice for plain and reinforced concrete.
+- For mass concrete foundation works, 33 Grade Ordinary Portland Cement conforming to IS 269:1989 may be utilized.
+
+2.2 STEEL REINFORCEMENT
+- High strength deformed steel bars and wires for concrete reinforcement conforming to IS 1786:1985 (Grade Fe 415).
+- All reinforcement bars shall be tested for tensile strength and bend properties.
+
+2.3 QUALITY AND SAFETY
+- Industrial safety helmets for workers on site conforming to IS 2925:1984 specifications.
+- Concrete sampling and compressive strength testing in accordance with standard test methods.

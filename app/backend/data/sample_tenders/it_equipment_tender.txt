@@ -1,0 +1,47 @@
+TENDER DOCUMENT
+
+Subject: Procurement of IT Equipment and Networking Infrastructure for District Collectorate, Pune
+
+Tender Reference No: NIC/MH/2025/IT-0389
+
+1. SCOPE OF PROCUREMENT
+The National Informatics Centre (NIC), Maharashtra State Unit invites tenders for supply, installation, and commissioning of IT equipment and networking infrastructure at the District Collectorate, Pune.
+
+2. ITEM SPECIFICATIONS
+
+2.1 DESKTOP COMPUTERS (Quantity: 150)
+- Processor: Intel Core i5 (12th Gen or higher) or equivalent
+- RAM: 16 GB DDR4
+- Storage: 512 GB SSD
+- Display: 23.8 inch Full HD LED/LCD monitor conforming to IS specifications for display monitors
+- Operating System: Pre-loaded with licensed Windows 11 Professional
+- All IT equipment shall meet safety requirements as per IS standards for information technology equipment safety
+- Keyboard and mouse (USB wired)
+
+2.2 NETWORK INFRASTRUCTURE
+- Managed Layer 3 Network Switches (48-port Gigabit): 10 nos. conforming to IS specifications for network switches
+- Managed Layer 2 Access Switches (24-port): 20 nos.
+- Enterprise Routers with firewall capability: 2 nos.
+- Structured cabling (Cat 6A) as per IS standards for data centre cabling
+- Network racks (42U): 3 nos. with proper cable management
+
+2.3 UPS AND POWER BACKUP
+- Online UPS System (60 KVA) with 30 minutes battery backup conforming to IS specifications for UPS safety and general requirements
+- UPS shall comply with EMC requirements as per applicable IS standards
+- Proper earthing for all IT equipment as per IS standards for earthing
+
+2.4 SERVER ROOM
+- Precision air conditioning (2 ton): 2 nos.
+- Raised flooring as per data centre standards
+- Fire suppression system (gas-based) with fire detection conforming to IS codes
+
+3. INSTALLATION REQUIREMENTS
+- Complete structured cabling with proper labelling and documentation
+- All electrical wiring for IT equipment as per IS code of practice for electrical wiring
+- PVC insulated cables for power distribution as per relevant IS specifications
+
+4. WARRANTY: 5 years comprehensive on-site warranty for all equipment.
+
+5. COMPLETION PERIOD: 90 days from date of purchase order.
+
+6. ESTIMATED COST: Rs. 2.8 Crores

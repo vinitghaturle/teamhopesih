@@ -1,0 +1,122 @@
+[
+  {
+    "id": "GOLDEN-01",
+    "type": "single_standard",
+    "query": "Supply of Polyethylene pipes for municipal potable water supply network, PE-100 grade, working pressure PN 10, nominal diameter 110mm.",
+    "expected_standards": ["IS 15450"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Plastic Piping Systems"
+  },
+  {
+    "id": "GOLDEN-02",
+    "type": "single_standard",
+    "query": "Procurement of Thermo-Mechanically Treated (TMT) high strength deformed steel reinforcement bars for RCC building foundation, Grade Fe 500D with minimum 14.5% elongation.",
+    "expected_standards": ["IS 1786"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Steel & Metallurgical Products"
+  },
+  {
+    "id": "GOLDEN-03",
+    "type": "single_standard",
+    "query": "Supply of Ordinary Portland Cement 53 Grade (OPC 53) in 50 kg HDPE bags for heavy pre-stressed concrete works with 28-day compressive strength exceeding 53 MPa.",
+    "expected_standards": ["IS 12269", "IS 269"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Cement & Concrete Products"
+  },
+  {
+    "id": "GOLDEN-04",
+    "type": "single_standard",
+    "query": "Procurement of 20 Litre packaged drinking water jars for government office distribution, treated via reverse osmosis, ozone disinfection and TDS less than 500 mg/l.",
+    "expected_standards": ["IS 14543", "IS 15410"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Packaged Water & Beverages"
+  },
+  {
+    "id": "GOLDEN-05",
+    "type": "single_standard",
+    "query": "Supply of PVC insulated single-core copper conductor flexible cables for building internal wiring and lighting circuits, voltage grade up to 1100 V with flame retardant low smoke (FRLS) insulation.",
+    "expected_standards": ["IS 694"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Electrical Cables & Wires"
+  },
+  {
+    "id": "GOLDEN-06",
+    "type": "single_standard",
+    "query": "Procurement of self-ballasted 9W LED lamps for general interior office lighting, B22 cap, luminous efficacy min 100 lm/W and integrated surge protection.",
+    "expected_standards": ["IS 16102 (Part 1)", "IS 16102"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Electronics & Lighting"
+  },
+  {
+    "id": "GOLDEN-07",
+    "type": "single_standard",
+    "query": "Supply of protective helmets for two-wheeler dispatch riders with impact attenuation polystyrene liner, quick-release chin strap and anti-scratch clear visor.",
+    "expected_standards": ["IS 4151"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Safety Gear"
+  },
+  {
+    "id": "GOLDEN-08",
+    "type": "multi_standard",
+    "query": "Rural piped water supply scheme tender including supply of distribution pipes and baseline potable drinking water quality testing for fluoride, arsenic, iron, and coliform count.",
+    "expected_standards": ["IS 15450", "IS 10500"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Water Supply"
+  },
+  {
+    "id": "GOLDEN-09",
+    "type": "multi_standard",
+    "query": "Construction of RCC multistory commercial complex including 43 Grade Ordinary Portland cement concrete design and Fe 500 grade TMT reinforcement bar fabrication.",
+    "expected_standards": ["IS 269", "IS 8112", "IS 1786"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Civil & Building Construction"
+  },
+  {
+    "id": "GOLDEN-10",
+    "type": "multilingual_hindi",
+    "query": "पेयजल आपूर्ति के लिए उच्च घनत्व पॉलीथीन पाइप की आपूर्ति (Polyethylene pipe for drinking water supply).",
+    "expected_standards": ["IS 15450"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Plastic Piping Systems"
+  },
+  {
+    "id": "GOLDEN-11",
+    "type": "multilingual_marathi",
+    "query": "शासकीय कार्यालयासाठी 20 लिटर पॅक केलेले पिण्याचे पाणी पुरवठा (Packaged drinking water jars 20L supply).",
+    "expected_standards": ["IS 14543", "IS 15410"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Packaged Water & Beverages"
+  },
+  {
+    "id": "GOLDEN-12",
+    "type": "stale_citation",
+    "query": "Tender specification specifying Ordinary Portland Cement 43 Grade conforming to IS 8112:1989 for precast culvert manufacturing.",
+    "expected_standards": ["IS 269", "IS 8112"],
+    "expected_status": "MATCH_FOUND",
+    "category": "Cement & Concrete Products"
+  },
+  {
+    "id": "GOLDEN-13",
+    "type": "out_of_corpus",
+    "query": "Hiring of certified scrum masters and agile coaches for enterprise cloud migration project.",
+    "expected_standards": [],
+    "expected_status": "NO_CONFIDENT_MATCH",
+    "category": "Out of Scope"
+  },
+  {
+    "id": "GOLDEN-14",
+    "type": "out_of_corpus",
+    "query": "Procurement of office pantry tea bags, roasted coffee beans, sugar cubes and disposable wooden stirrers.",
+    "expected_standards": [],
+    "expected_status": "NO_CONFIDENT_MATCH",
+    "category": "Out of Scope"
+  },
+  {
+    "id": "GOLDEN-15",
+    "type": "out_of_corpus",
+    "query": "Design and fabrication of NASA deep space satellite ion propulsion thruster nozzles with xenon gas injection.",
+    "expected_standards": [],
+    "expected_status": "NO_CONFIDENT_MATCH",
+    "category": "Out of Scope"
+  }
+]

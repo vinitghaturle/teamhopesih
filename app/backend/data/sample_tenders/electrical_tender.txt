@@ -1,0 +1,23 @@
+TENDER NOTICE - ELECTRICAL INFRASTRUCTURE UPGRADE
+
+Subject: Supply and Installation of Internal Electrical Wiring, Cables, and Energy-Efficient Lighting
+
+Tender Reference No: PWD/ELECT/2026/089
+
+1. SCOPE OF WORK
+Turnkey execution of internal electrification for the newly constructed administrative block including cabling, power distribution boards, and luminaire fittings.
+
+2. TECHNICAL SPECIFICATIONS
+
+2.1 CABLING & CONDUCTORS
+- Supply of PVC insulated single-core copper conductor flexible cables for building internal wiring and lighting circuits, voltage grade up to 1100 V with flame retardant low smoke (FRLS) insulation.
+- Heavy duty power cables for main distribution panel to sub-distribution boards.
+- Plugs and socket-outlets 6A/16A rating conforming to relevant BIS safety specifications.
+
+2.2 LIGHTING & LUMINAIRES
+- Supply of self-ballasted 9W and 18W LED lamps for general interior office lighting, B22 and E27 cap, luminous efficacy min 100 lm/W and integrated surge protection.
+- Emergency exit sign luminaires with battery backup.
+
+2.3 SAFETY & EARTHING
+- All electrical installations and equipment shall comply with Indian Standard codes of practice for electrical safety and earthing.
+- Mandatory ISI marking certification required for all cables and LED lighting equipment.

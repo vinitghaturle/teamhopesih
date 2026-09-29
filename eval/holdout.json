@@ -1,0 +1,87 @@
+[
+  {
+    "id": "H01",
+    "language": "en",
+    "type": "in_corpus",
+    "query": "We need OPC cement for general construction work. The tender does not use the formal standard name; which Indian Standard should we refer to for 43 grade cement?",
+    "expected_standards": [
+      "IS 8112"
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "H02",
+    "language": "en",
+    "type": "in_corpus",
+    "query": "For a civil works tender, specify ordinary Portland cement, 53 grade, for structural concrete. Identify the applicable IS reference.",
+    "expected_standards": [
+      "IS 12269"
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "H03",
+    "language": "en",
+    "type": "in_corpus",
+    "query": "A contractor has proposed ordinary Portland cement of 33 grade for the work. What Indian Standard should the procurement specification cite?",
+    "expected_standards": [
+      "IS 269"
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "H04",
+    "language": "en",
+    "type": "near_miss_out_of_corpus",
+    "query": "The department wants to purchase HDPE water-supply pipes for a municipal pipeline project. Recommend the relevant Indian Standard.",
+    "expected_standards": [],
+    "should_refuse": true
+  },
+  {
+    "id": "H05",
+    "language": "en",
+    "type": "near_miss_out_of_corpus",
+    "query": "We need rigid PVC pipes for underground drainage. Which IS standard should be included in the tender?",
+    "expected_standards": [],
+    "should_refuse": true
+  },
+  {
+    "id": "H06",
+    "language": "en",
+    "type": "near_miss_out_of_corpus",
+    "query": "Prepare a specification for industrial safety helmets used by construction workers and identify the applicable Indian Standard.",
+    "expected_standards": [],
+    "should_refuse": true
+  },
+  {
+    "id": "H07",
+    "language": "hi",
+    "type": "in_corpus",
+    "query": "सरकारी भवन के निर्माण के लिए 43 ग्रेड साधारण पोर्टलैंड सीमेंट खरीदना है। टेंडर में किस भारतीय मानक का संदर्भ देना चाहिए?",
+    "expected_standards": [
+      "IS 8112"
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "H08",
+    "language": "mr",
+    "type": "in_corpus",
+    "query": "बांधकामाच्या कामासाठी 53 ग्रेड साधारण पोर्टलँड सिमेंट घ्यायचे आहे. निविदेत कोणता भारतीय मानक क्रमांक नमूद करावा?",
+    "expected_standards": [
+      "IS 12269"
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "H09",
+    "language": "en",
+    "type": "multi_product_tender",
+    "query": "A public works department needs two cement products in the same procurement: 43 grade ordinary Portland cement for general construction and 53 grade ordinary Portland cement for structural concrete. Identify the Indian Standard applicable to each product.",
+    "expected_standards": [
+      "IS 8112",
+      "IS 12269"
+    ],
+    "should_refuse": false
+  }
+]
